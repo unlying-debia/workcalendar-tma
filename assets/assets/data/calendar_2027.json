@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "year": 2027,
+  "weekModel": "monday-friday",
+  "checkedOn": "2026-10-22",
+  "sources": [
+    {
+      "document": "Постановление Правительства РФ от 2026-09-17 № 1187",
+      "url": "http://static.government.ru/media/files/Rcbz6Xcgzzt7GLO5H0Ib0b1uNU5ARsKQ.pdf",
+      "verifiedTextUrls": [
+        "https://www.consultant.ru/document/cons_doc_LAW_544706/",
+        "https://www.garant.ru/products/ipo/prime/doc/414831980/"
+      ],
+      "originalPdfFetched": false
+    },
+    {
+      "document": "ТК РФ, статьи 95 и 112",
+      "url": "https://pravo.gov.ru/proxy/ips/?docbody=&nd=102074279"
+    },
+    {
+      "document": "Приказ Минздравсоцразвития РФ № 588н от 13.08.2009",
+      "url": "https://www.sechenov.ru/pressroom/publications/prikaz-minzdravsotsrazvitiya-rossii-ot-13-avgusta-2009-g-n-588n-g-moskva/"
+    }
+  ],
+  "holidays": {
+    "2027-01-01": "newYear",
+    "2027-01-02": "newYear",
+    "2027-01-03": "newYear",
+    "2027-01-04": "newYear",
+    "2027-01-05": "newYear",
+    "2027-01-06": "newYear",
+    "2027-01-07": "christmas",
+    "2027-01-08": "newYear",
+    "2027-02-23": "defender",
+    "2027-03-08": "women",
+    "2027-05-01": "spring",
+    "2027-05-09": "victory",
+    "2027-06-12": "russia",
+    "2027-11-04": "unity"
+  },
+  "transfers": [
+    {
+      "from": "2027-01-02",
+      "to": "2027-11-05",
+      "fromBecomesWorking": false,
+      "basis": "decree"
+    },
+    {
+      "from": "2027-01-03",
+      "to": "2027-12-31",
+      "fromBecomesWorking": false,
+      "basis": "decree"
+    },
+    {
+      "from": "2027-02-20",
+      "to": "2027-02-22",
+      "fromBecomesWorking": true,
+      "basis": "decree"
+    },
+    {
+      "from": "2027-05-01",
+      "to": "2027-05-03",
+      "fromBecomesWorking": false,
+      "basis": "article112"
+    },
+    {
+      "from": "2027-05-09",
+      "to": "2027-05-10",
+      "fromBecomesWorking": false,
+      "basis": "article112"
+    },
+    {
+      "from": "2027-06-12",
+      "to": "2027-06-14",
+      "fromBecomesWorking": false,
+      "basis": "article112"
+    }
+  ],
+  "shortenedDays": [
+    "2027-02-20",
+    "2027-04-30",
+    "2027-06-11",
+    "2027-11-03"
+  ]
+}
